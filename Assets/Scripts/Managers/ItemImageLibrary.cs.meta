@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 36ab142ee2d89a248994da8d36ae7a7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GreenCubeSprite: {fileID: 21300000, guid: f51838597f007495f95824f1dc40652f, type: 3}
+  - YellowCubeSprite: {fileID: 21300000, guid: 2b32b526e371549a6892a3d807eee6d8, type: 3}
+  - BlueCubeSprite: {fileID: 21300000, guid: ae73c201bad2d4a7b8478ef0c787f688, type: 3}
+  - RedCubeSprite: {fileID: 21300000, guid: 1815ee705eabb45c09bf2542a5529d53, type: 3}
+  - GreenCubeRocketHintSprite: {fileID: 21300000, guid: 52009e72cc6ed40eda98c18b149fbb20, type: 3}
+  - YellowCubeRocketHintSprite: {fileID: 21300000, guid: b5f1edd77e043463f9f18e4fb17213f3, type: 3}
+  - BlueCubeRocketHintSprite: {fileID: 21300000, guid: 0250d39e6274b4a808500fbb25909988, type: 3}
+  - RedCubeRocketHintSprite: {fileID: 21300000, guid: 2292e5c6979cf4794897dfe635054b85, type: 3}
+  - HorizontalRocketSprite: {fileID: 21300000, guid: 8cdabbedd9914c04aa903f45f9a34938, type: 3}
+  - VerticalRocketSprite: {fileID: 21300000, guid: 39d0c27c8899c2d40ae1707a0676eff4, type: 3}
+  - BoxSprite: {fileID: 21300000, guid: de0bcdf915a674bb792b1afe8869df57, type: 3}
+  - StoneSprite: {fileID: 21300000, guid: a06fa1a2dfddb4335a54bef8d0441626, type: 3}
+  - VaseLayer1Sprite: {fileID: 21300000, guid: 749bf085a2b464b4981142d15484bec8, type: 3}
+  - VaseLayer2Sprite: {fileID: 21300000, guid: 8414b207417fd4b6f8e996e080e21c33, type: 3}
+  - GreenRocketSprite: {fileID: 21300000, guid: fb25a982155295d45b0c179b2150c682, type: 3}
+  - YellowRocketSprite: {fileID: 21300000, guid: c4be99f74e7df1d4a9cb412cf7e1c264, type: 3}
+  - BlueRocketSprite: {fileID: 21300000, guid: 9944281d4a17ea04aa2dd8b640705ad9, type: 3}
+  - RedRocketSprite: {fileID: 21300000, guid: 1f64a506c56842e4096336bfd9895e05, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
